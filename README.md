@@ -8,7 +8,7 @@ Note that this is for NuGet API V3 because that is the only version with an actu
 
 ### Chocolatey
 
-Chocolatey adds support for V3 servers in 2.0.0, which is currently in alpha. You can [grab the nupkg](https://github.com/chocolatey/choco/releases) and install it with `choco install chocolatey.2.0.0-....nupkg -s . -f`.
+Chocolatey adds support for V3 servers in 2.0.0, which is currently in alpha. You can upgrade to a preview version with `choco upgrade chocolatey --pre`.
 
 ## Usage
 
